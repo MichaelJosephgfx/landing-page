@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" enable-background="new 0 0 551 480" version="1.1" viewBox="0 0 551 480">
+<style type="text/css">
+	.st0{fill:#999999;stroke:#000000;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st1{fill:#808080;stroke:#000000;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st2{fill:#666666;stroke:#000000;stroke-linejoin:round;stroke-miterlimit:10;}
+</style>
+	<polygon class="st0" points="531.2 399.4 315.5 9.9 234.6 9.9 412.6 331.3 215.2 331.3 177.9 399.2"/>
+	<polygon class="st1" points="177.9 399.2 275.6 219.5 236.2 148.8 60.5 470.1 139 470.1 493.4 470.1 531.2 399.2"/>
+	<polygon class="st2" points="234.6 9.9 19.8 399.4 60.5 470.1 236.2 148.8 337.9 331.3 412.6 331.3"/>
+</svg>
