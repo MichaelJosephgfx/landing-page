@@ -66,13 +66,38 @@ main .button {
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.1);
 }
 
+.info-header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: lightcyan;
+    padding: 28px;
+}
+
 .info {
     display: flex;
     flex-direction: column;
+    text-align: center;
     justify-content: center;
-    align-items: center;
     padding: 20px;
     gap: 30px;
     background-color: lightcyan;
 }
 
+.img {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    gap: 150px;
+}
+
+.text-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+}
+
+.text {
+    width: 200px;
+}
